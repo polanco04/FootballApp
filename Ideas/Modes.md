@@ -1,0 +1,6 @@
+Different Modes for App
+Team Creation- make the best team using players from the random 2 teams.  Publish the teams that were made and let people decide what team is better. AI model could also choose between the 2 instead of having people vote. Or AI model could be the tiebreaker if there is a tie in votes. 
+
+The 2 teams will be chosen at random based on team ratings. We will not pair teams from first division with a team from 4th division since that would make it so no one picks any players from the lower division team. Would be something like “Barcelona and Real Madrid”, “PSG and Bayern Munich”, etc.  Even if it’s 2 teams for the same league, we will not do something like “Liverpool and Brentford” NOONE PICKING A PLAYER FROM BRENTFORD.
+
+Either make it so both users can pick any player OR make it so if one picks a player, IT LOCKS that player for the other user.  So the user must think more about their choices. More inclined to doing the second one, that way the mode is more challenging and there’s more team variety.
